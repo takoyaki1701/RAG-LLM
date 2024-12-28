@@ -23,21 +23,11 @@ This project implement RAG technique to improve the performance of LLM. Retrieva
 - git clone https://github.com/luuducquy0510/RAGLLM.git
 - cd RAGLLM
 
-2. Set Up a Virtual Environment (Optional but Recommended)
-Create and activate a virtual environment:
-
-- On Linux/MacOS:
-    python3 -m venv venv
-    source venv/bin/activate
-- On Windows:
-    python -m venv venv
-    .\venv\Scripts\activate
-
-3. Install Dependencies:
+2. Install Dependencies:
 
 - pip install -r requirements.txt
 
-4. Set Up API Key:
+3. Set Up API Key:
 - Get your Gemini API KEY from [Gemini API KEY](https://aistudio.google.com/app/apikey)
 
 5. Demo:
