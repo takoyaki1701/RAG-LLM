@@ -1,7 +1,7 @@
 # RAGLLM
 
 This project implement RAG technique to improve the performance of LLM. Retrieval-Augmented Generation (RAG) can help LLM avoid hallucication using provided documents. 
-
+This is the 3rd version of this application
 ## Table of Contents
 
 - [Features](#features)
