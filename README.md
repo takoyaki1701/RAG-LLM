@@ -20,7 +20,7 @@ This project implement RAG technique to improve the performance of LLM. Retrieva
 
 1. Clone the Repository:
 
-- git clone https://github.com/luuducquy0510/RAGLLM.git
+- git clone https://github.com/takoyaki1701/RAG-LLM.git
 - cd RAGLLM
 
 2. Install Dependencies:
